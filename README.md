@@ -1,5 +1,6 @@
 # INTRODUCTION
  ● A DIARY MANAGEMENT SYSTEM is a type of personal diary. This can be used to note our personal activities, as we write in our dairy.
+ <br>
  ● This is password protected system by which we can easily hide our personal details by others.
 
 ## Functions used in this program
